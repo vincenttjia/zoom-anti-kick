@@ -11,4 +11,3 @@ while(True):
 	except:
 		driver.delete_all_cookies()
 		driver.get(url)
-		print("Masuk except")
