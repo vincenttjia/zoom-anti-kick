@@ -4,7 +4,7 @@ Untuk join zoom meeting binus dimana hukum alam berlaku
 Script ini untuk memastikan jika kita di kick oleh host dalam 5 detik akan otomatis reconnect
 cocok untuk saya yang join meeting dari jam 12 malam demi "mendapatkan tempat"
 
-instruksi:
+Instruksi:
 1. Download chromium webdriver sesuai versi chrome taro di 1 folder https://chromedriver.chromium.org/downloads
 
 2. Ganti URL Sesuai url meeting
